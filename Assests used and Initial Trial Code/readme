@@ -1,1 +1,24 @@
-qwerty
+All the instruction for my imlo enviroment: 
+
+cuda-command-line-tools   12.1.0                        0    nvidia/label/cuda-12.1.0
+cuda-compiler             12.1.0                        0    nvidia/label/cuda-12.1.0
+cuda-documentation        12.1.55                       0    nvidia/label/cuda-12.1.0
+cuda-libraries            12.1.0                        0    nvidia/label/cuda-12.1.0
+cuda-libraries-dev        12.1.0                        0    nvidia/label/cuda-12.1.0
+cuda-nsight-compute       12.1.0                        0    nvidia/label/cuda-12.1.0
+cuda-nvvp                 12.1.55                       0    nvidia/label/cuda-12.1.0
+cuda-opencl               12.1.56                       0    nvidia/label/cuda-12.1.0
+cuda-opencl-dev           12.1.56                       0    nvidia/label/cuda-12.1.0
+cuda-profiler-api         12.4.127             haa95532_1
+cuda-runtime              12.1.0                        0    nvidia
+cuda-sanitizer-api        12.1.55                       0    nvidia/label/cuda-12.1.0
+cuda-toolkit              12.1.0                        0    nvidia/label/cuda-12.1.0
+cuda-tools                12.1.0                        0    nvidia/label/cuda-12.1.0
+cuda-version              12.4                 hbda6634_3
+cuda-visual-tools         12.1.0                        0    nvidia/label/cuda-12.1.0
+nsight-compute            2023.1.0.15                   0    nvidia/label/cuda-12.1.0
+torchaudio                2.3.0                    pypi_0    pypi
+torchvision               0.18.0                   pypi_0    pypi
+pandas                    2.1.1           py310h4ed8f06_0    anaconda
+
+Note: I have accessed the history of the envoriment by writing a line "conda list" in conda terminal, which was opened through the application "Anaconda Navigator"
