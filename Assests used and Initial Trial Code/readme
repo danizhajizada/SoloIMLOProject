@@ -25,4 +25,4 @@ torchaudio                2.3.0                    pypi_0    pypi
 torchvision               0.18.0                   pypi_0    pypi
 pandas                    2.1.1           py310h4ed8f06_0    anaconda
 
-Note: I have accessed the history of the envoriment by writing a line "conda list" in conda terminal, which was opened through the application "Anaconda Navigator"
+Note: I have accessed the history of the envoriment by writing a line "conda list" in conda terminal, which was opened through the application "Anaconda Navigator". 
