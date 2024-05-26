@@ -1,3 +1,7 @@
+Instruction on how to run the code: 
+
+The code is given in .ipynb format. The code could be run using jupyter notebook.
+
 All the instruction for my imlo enviroment: 
 
 cuda-command-line-tools   12.1.0                        0    nvidia/label/cuda-12.1.0
